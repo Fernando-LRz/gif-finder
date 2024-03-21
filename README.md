@@ -1,14 +1,14 @@
 #   GIF Finder
-Simple GIF finder built with React.
+GIF finder built with React.
 
 ## Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/Fernando-LRz/GIF-Finder.git
+git clone https://github.com/Fernando-LRz/gif-finder-app.git
 ``` 
-2. Go inside the project folder
+2. Navigate to the project directory
 ```bash
-cd GIF-Finder
+cd gif-finder-app
 ```
 3. Install dependencies
 ```bash
@@ -16,7 +16,7 @@ npm install
 ```
 
 ## Configuration
- * An api key from Giphy Developers is required and must be set in an .env file. There is a sample .env file in the project.
+ * An API key from Giphy Developers is required and must be added to a .env file. There is a sample .env file in the project.
 
 ## Run the app
 ```bash

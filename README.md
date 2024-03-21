@@ -4,11 +4,11 @@ GIF finder built with React.
 ## Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/Fernando-LRz/gif-finder-app.git
+git clone https://github.com/Fernando-LRz/gif-finder.git
 ``` 
 2. Navigate to the project directory
 ```bash
-cd gif-finder-app
+cd gif-finder
 ```
 3. Install dependencies
 ```bash

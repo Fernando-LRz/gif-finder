@@ -1,5 +1,5 @@
-#   GIF Finder
-GIF finder built with React.
+# GIF Finder
+GIF finder web app built with React.
 
 ## Installation
 1. Clone the repository

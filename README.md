@@ -1,4 +1,4 @@
-# GIF Finder
+# GIF finder
 GIF finder web app built with React.
 
 ## Installation

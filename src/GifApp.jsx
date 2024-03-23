@@ -6,7 +6,7 @@ const GifApp = () => {
     const [ categories, setCategories ] = useState([]);
 
     const onAddCategory = (newCategory) => {
-        if(categories.includes(newCategory)) return;
+        if( categories.includes( newCategory ) ) return;
 
         // setCategories(category => [ ...category, 'D' ]);
         setCategories([ ...categories, newCategory ]);
@@ -14,7 +14,7 @@ const GifApp = () => {
 
     return (
         <>
-            <h1>GifApp</h1>
+            <h1>GIF finder</h1>
 
             <AddCategory 
                 // setCategories={ setCategories }
@@ -23,7 +23,7 @@ const GifApp = () => {
             />
 
             {
-                categories.map((category) => (
+                categories.map(( category ) => (
                     <GifGrid key={ category } category={ category }/>
                 ))
             }

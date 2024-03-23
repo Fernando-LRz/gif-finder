@@ -22,3 +22,8 @@ npm install
 ```bash
 npm run dev
 ```
+
+## Image
+| Gifs                                                             |
+| ---------------------------------------------------------------- |
+| <img src="images/gif-search.png" width="950" height="450"/>      |
